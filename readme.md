@@ -1,4 +1,4 @@
-##The project is the code for "CLUE: Consolidating Learned and Undergoing Experience in Domain-Incremental Classification (ACCV2022)"
+## The project is the code for "CLUE: Consolidating Learned and Undergoing Experience in Domain-Incremental Classification (ACCV2022)"
 
 **please click [Link]() to view the full paper**
 
