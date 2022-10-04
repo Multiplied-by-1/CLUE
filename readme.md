@@ -20,8 +20,6 @@
 
 Please download the dataset from the [link](https://drive.google.com/file/d/1i0yOiA7heVDI31IRIvfQcnKB5Yhs8ryN/view?usp=sharing)
 
-    tar -xvf data.tar
-
 **How to run the experiments**
 
     python main.py --dataset digits --method CLUE --epochs 20 --batch_size 128 --output res/clue_digits.log
