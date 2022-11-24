@@ -1,6 +1,6 @@
 ## The project is the code for "CLUE: Consolidating Learned and Undergoing Experience in Domain-Incremental Classification (ACCV2022)"
 
-**please click [Link]() to view the full paper**
+**please click [Link](https://openaccess.thecvf.com/content/ACCV2022/papers/Cai_CLUE_Consolidating_Learned_and_Undergoing_Experience_in_Domain-Incremental_Classification_ACCV_2022_paper.pdf) to view the full paper**
 
 **The Framework of CLUE**
 
